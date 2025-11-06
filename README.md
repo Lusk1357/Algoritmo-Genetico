@@ -7,7 +7,7 @@ O algoritmo foi testado nas instâncias de benchmark de Taillard (ex: "car1", "c
 ## Estrutura do Projeto
 
 * `main.py`: executa o GA.
-* `genetic_algorithm.py`: Contém a lógica do "motor" do GA (Seleção, Crossover OX, Mutação).
+* `algoritimo_genetico.py`: Contém a lógica do "motor" do GA (Seleção, Crossover OX, Mutação).
 * `flowshop.py`: Contém a lógica de definição do problema.
 * `requirements.txt`: Dependências do projeto.
 
@@ -25,4 +25,5 @@ O algoritmo foi testado nas instâncias de benchmark de Taillard (ex: "car1", "c
 3.  Execute o `main.py`:
     ```bash
     python main.py
+
     ```
